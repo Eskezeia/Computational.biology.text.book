@@ -2,8 +2,7 @@
 
 A graduate-level textbook and professional reference covering computational biology,
 bioinformatics, biostatistics, machine learning, deep learning, survival analysis,
-multimodal data integration, foundation models, and career development for roles in
-pharma, biotech, and healthcare analytics.
+multimodal data integration, and foundation models.
 
 ## Contents
 
@@ -15,7 +14,6 @@ pharma, biotech, and healthcare analytics.
 - Regulatory Affairs and Scientific Communication
 - Multimodal Data Integration and Medical Imaging
 - Foundation Models for Computational Biology and Medicine
-- Career Development for Big Pharma, Biotech, and Healthcare Analytics Roles
 - Comprehensive Model Reference Guide
 
 ## Author
