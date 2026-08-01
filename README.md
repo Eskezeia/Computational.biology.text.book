@@ -14,7 +14,8 @@ multimodal data integration, and foundation models.
 -  Multimodal Data Integration and Medical Imaging
 - Foundation Models for Computational Biology and Medicine
 - Comprehensive Model Reference Guide
-
+**⚠️ Status: Work in Progress**
+> This book is currently under development and has not been finalized. Content, structure, examples, and references are subject to ongoing revision. Please do not cite or treat this as a completed reference yet.
 ## Author
 
 Eskezeia Y. Dessie
