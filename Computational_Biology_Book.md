@@ -1,6 +1,6 @@
 ---
 title: "Computational Biology, Biostatistics, and AI/ML for Precision Medicine"
-subtitle: "A Graduate Textbook and Professional Reference for Multi-Omics Integration, Machine Learning, Biostatistics, and Career Development in Biotechnology and Pharmaceutical Data Science"
+subtitle: "A Graduate Textbook and Professional Reference for Multi-Omics Integration, Machine Learning, and Biostatistics"
 author: "Eskezeia Yihunie Dessie, PhD"
 date: "August 2026"
 documentclass: book
