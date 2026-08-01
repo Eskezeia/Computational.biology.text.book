@@ -11,8 +11,7 @@ multimodal data integration, and foundation models.
 - Biostatistics and Statistical Modeling
 - Modern Survival Analysis
 - Programming Languages and Computational Tools
-- Regulatory Affairs and Scientific Communication
-- Multimodal Data Integration and Medical Imaging
+-  Multimodal Data Integration and Medical Imaging
 - Foundation Models for Computational Biology and Medicine
 - Comprehensive Model Reference Guide
 
