@@ -1,5 +1,5 @@
----
-title: "Computational Biology, Biostatistics, and AI/ML for Precision Medicine"
+
+Title: "Computational Biology, Biostatistics, and AI/ML for Precision Medicine"
 
 # Preface {-}
 
